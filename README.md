@@ -4,7 +4,7 @@ It's a simple calculator application on Node.js
 The purpose of this project is try to develop an application following TDD principles.
 
 ---------------------
-Information from article [Tania Rascia tutorial](https://www.taniarascia.com/unit-testing-in-javascript/) was used.
+Information from [Tania Rascia's tutorial](https://www.taniarascia.com/unit-testing-in-javascript/) was used.
 ---------------------
 
 
